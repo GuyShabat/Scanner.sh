@@ -5,7 +5,7 @@
 
 #Description:
 #This script gets a network range from the user or getting it automaticlly and then starts to scan the 
-#network for vulnerabilities and exploits and displaying it back to the user
+#network for vulnerabilities and exploits and displaying data back to the user also creates a new directory and sorts all the data to files and new directories.
 
 #Usage: dcanner.sh
 
